@@ -222,7 +222,7 @@ int main(int argc, char *argv[])
 
     players[seeker - 1].num_seekers++; /* Add 1 point to the initialy picked seeker player */
 
-    printf("\n\t---------Done By Nemer Tamimi & Jehad Jitan & Abdelaziz Bayanti---------\n");
+    printf("\n\t---------Done By Nemer Tamimi & Jehad Jitan & Abdelaziz Bayanteh---------\n");
     printf("\n\t----------------- 1170025    -   1171858   -   1170130------------------\n");
     printf("\n\t--------------------------------Randomly--------------------------------\n");
     printf("\n\t\t\t   initialy the seeker player is %d\n", seeker);
