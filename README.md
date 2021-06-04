@@ -1,4 +1,4 @@
-#  Ball Catching Game
+#  Ball Catching Game using pthread
 
 
 ## executing
